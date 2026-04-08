@@ -1,0 +1,11 @@
+complaint,priority
+My account is hacked,High
+Unauthorized transaction,High
+Money deducted but not received,High
+App crashes frequently,Medium
+Payment not processed,Medium
+App is slow,Low
+UI is confusing,Low
+Login takes too long,Low
+Server error while payment,High
+Delayed response from support,Medium
